@@ -1,5 +1,5 @@
 
-![Build Status](https://travis-ci.org/Susankha/APIMCICDExample.svg?branch=master)]
+Build Status: ![Build Status](https://travis-ci.org/Susankha/APIMCICDExample.svg?branch=master)
 
 ## Getting Started Guide
 
